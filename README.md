@@ -16,7 +16,7 @@ repo นี้รวบรวมไฟล์การเรียน การ�
 - cos4312 — [repo ของ วิชานี้](https://github.com/Minkkies/Deep-Learning)
 - cos3401 — [repo ของ วิชานี้](https://github.com/Minkkies/Digital-Image-Processing)
 - cos2102 — [repo ของ วิชานี้](https://github.com/Minkkies/OOP-with-code-C-)
-- cos2204 — [repo นี้เป็นไฟนอลโปรเจคที่ได้ส่งอาจารย์ไป](https://github.com/Minkkies/Web-Programming) นอกจากยี้ยังมีrepo อื่นที่เกี่ยวข่องสามารถเข้าไปดูได้ [CSSTutorial](https://github.com/Minkkies/CSSTutorial), [HTMLtutorial1](https://github.com/Minkkies/HTMLtutorial1),[CSSLearningWeb](https://github.com/Minkkies/CSSLearningWeb),[Javascript101](https://github.com/Minkkies/Javascript101) 
+- cos2204 — [repo นี้เป็นไฟนอลโปรเจคที่ได้ส่งอาจารย์ไป](https://github.com/Minkkies/Web-Programming) นอกจากยนี้ยังมีrepo อื่นที่เกี่ยวข้องสามารถเข้าไปดูได้ [CSSTutorial](https://github.com/Minkkies/CSSTutorial) , [HTMLtutorial1](https://github.com/Minkkies/HTMLtutorial1) , [CSSLearningWeb](https://github.com/Minkkies/CSSLearningWeb) , [Javascript101](https://github.com/Minkkies/Javascript101) 
           
 
 วิธีใช้งาน:
